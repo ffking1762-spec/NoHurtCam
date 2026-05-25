@@ -1,0 +1,17 @@
+
+[
+  {
+    "modid": "nohurtcam",
+    "name": "No Hurt Cam",
+    "description": "Removes the hurt camera shake effect.",
+    "version": "1.0",
+    "mcversion": "1.9.4",
+    "authorList": ["ChatGPT"],
+    "credits": "",
+    "logoFile": "",
+    "url": "",
+    "updateUrl": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
